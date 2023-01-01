@@ -1,0 +1,16 @@
+Name of the student : Sourabh Dey 
+Class Roll of the student : 47 
+Stream of the student : CSE 
+Your Student ID is : CSE2247
+
+Marks obtained in Math is : 94 
+Marks obtained in Python is : 98 
+Marks obtained in Physics is : 94 
+Marks obtained in Chemistry is : 78 
+Marks obtained in Biology is : 85 
+Marks obtained in English is : 93 
+
+You have got 542 in total with 90%
+Performance: OUTSTANDING. 
+Status: PASSED. 
+Grade: A.

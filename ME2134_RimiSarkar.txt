@@ -1,0 +1,16 @@
+Name of the student : Rimi Sarkar 
+Class Roll of the student : 34 
+Stream of the student : ME 
+Your Student ID is : ME2134
+
+Marks obtained in Math is : 90 
+Marks obtained in Python is : 60 
+Marks obtained in Physics is : 70 
+Marks obtained in Chemistry is : 90 
+Marks obtained in Biology is : 70 
+Marks obtained in English is : 67 
+
+You have got 447 in total with 89%
+Performance: GOOD. 
+Status: PASSED. 
+Grade: C.
